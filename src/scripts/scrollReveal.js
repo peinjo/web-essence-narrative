@@ -1,3 +1,4 @@
+
 export default function initScrollReveal(targetElements, defaultProps) {
   if (!targetElements.length) return;
 
